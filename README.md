@@ -79,5 +79,4 @@ Universidad Politécnica Territorial Agro Industrial del Táchira — 2019–202
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali_Guerrero-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/aliguerrero-data)
 [![Email](https://img.shields.io/badge/Email-aliguerreroj24@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aliguerreroj24@gmail.com)
-[![Email](https://img.shields.io/badge/Email-aliguerreroj24@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aliguerreroj@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-aliguerreroj-181717?style=flat&logo=github&logoColor=white)](https://github.com/aliguerreroj)
