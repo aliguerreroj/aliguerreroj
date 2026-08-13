@@ -2,7 +2,7 @@
 Software Engineer turned Data Engineer & Data Scientist.
 Master's in Data Science & Business Analytics @ IMMUNE Technology Institute 🇪🇸
 Building end-to-end data pipelines and ML systems that solve real business problems.
-📍 Venezuela · 🌍 Open to remote & relocation · 🗣️ Spanish (native) · English (B2)
+📍 Colombia · 🌍 Open to remote & relocation · 🗣️ Spanish (native) · English (B2)
 ---
 ## 🚀 Featured Projects
 
